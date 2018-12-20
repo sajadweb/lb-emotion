@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with correct styles 1`] = `
+<div>
+  <p>
+    To get started, edit 
+    <code>
+      src/App.tsx
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;

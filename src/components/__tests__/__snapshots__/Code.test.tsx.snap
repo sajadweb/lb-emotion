@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with correct styles 1`] = `
+<div>
+  <code
+    className="css-1hhyawn"
+    data-lang="html"
+  >
+    <pre>
+            
+      hi test
+       
+    </pre>
+  </code>
+</div>
+`;

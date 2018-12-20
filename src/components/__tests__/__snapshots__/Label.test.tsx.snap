@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders with correct styles 1`] = `
+<label
+  className="css-zrmgcc"
+>
+  ok
+</label>
+`;
